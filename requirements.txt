@@ -1,0 +1,6 @@
+streamlit
+os 
+Image
+PIL
+google.generativeai
+
